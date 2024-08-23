@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.t-zINLz_CofhtLRPPG3wTAHaEK?rs=1&pid=ImgDetMain)](https://cyrustabji.io)
+[![MasterHead](https://www.webnetcreatives.net/wp-content/uploads/2014/09/joomla-big.png)](https://cyrustabji.io)
 <h1 align="center">Hi 👋, I'm Cyrus Tabji</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.IbYFqliVBtbgy_Enva6UqAAAAA?w=220&h=194&rs=1&pid=ImgDetMain"/>
