@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=DfPHEto2&id=4B468B1D3B1E7FCD5EDD5B93E2C8DF736E169F17&thid=OIP.DfPHEto2W-ud2k9FmN11jQAAAA&mediaurl=https%3A%2F%2Fwww.breatharian.eu%2Fhw%2Fpicovga%2Fimg%2Fhello_m.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.0df3c712da365beb9dda4f4598dd758d%3Frik%3DF58WbnPfyOKTWw%26pid%3DImgRaw%26r%3D0&exph=188&expw=250&q=programming+banner+gif+&simid=608044082943704528&form=IRPRST&ck=F84D9B4337957CD1F76B98F7A6220EB2&selectedindex=10&itb=0&pivotparams=insightsToken%3Dccid_wHLWPVpq*cp_6040AE2CF6FB4E101E4171553D617A06*mid_E84FA05ADAEB538B39E2399C1590BFF5A2ACB670*simid_608025558728132270*thid_OIP.wHLWPVpq2oyDq-9I4iNAjAHaEK&vt=0&sim=11&iss=VSI)](https://cyrustabji.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.t-zINLz_CofhtLRPPG3wTAHaEK?rs=1&pid=ImgDetMain)](https://cyrustabji.io)
 <h1 align="center">Hi 👋, I'm Cyrus Tabji</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.IbYFqliVBtbgy_Enva6UqAAAAA?w=220&h=194&rs=1&pid=ImgDetMain"/>
